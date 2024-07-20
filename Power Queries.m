@@ -1,7 +1,7 @@
 // 1. DYNAMIC QUERY TO CHECK WHEATHER CELL IS NULL OR NOT FOR ALL SPECIFIED COLUMNS
 
 let
-     = SOURCE HERE,
+    Source = SOURCE HERE,
     
     // List of columns to apply the custom column logic
     columnsToCheck = {
